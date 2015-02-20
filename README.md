@@ -3,7 +3,7 @@ Jwcad Update Checker
 [![Build Status](https://travis-ci.org/pine613/JwcadUpdateChecker.svg?branch=master)](https://travis-ci.org/pine613/JwcadUpdateChecker)
 [![devDependency Status](https://david-dm.org/pine613/JwcadUpdateChecker/dev-status.svg)](https://david-dm.org/pine613/JwcadUpdateChecker#info=devDependencies)
 
-This is a Google Apps Script that get latest version of Opera.
+This is a Google Apps Script that get latest version of Jw_cad.
 
 ## Developing enviroment
 
