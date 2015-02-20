@@ -28,10 +28,10 @@ This app runs in my spreadsheet.
 - [format=json](https://script.google.com/macros/s/AKfycbza40t2BHjMOlYxI-Uq29o-_TE08WXLlWeKwVCmIcZdSwAs3txF/exec?format=json)
 ```json
 {
-  "isSucceeded":true,
-  "errMsg":null,
-  "version":"8.00.4",
-  "downloadUrl":"http://www.jwcad.net/download/jww800d.exe"
+  "isSucceeded": true,
+  "errMsg": null,
+  "version": "8.00.4",
+  "downloadUrl": "http://www.jwcad.net/download/jww800d.exe"
 }
 ```
 - [format=xml](https://script.google.com/macros/s/AKfycbza40t2BHjMOlYxI-Uq29o-_TE08WXLlWeKwVCmIcZdSwAs3txF/exec?format=xml)
