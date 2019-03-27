@@ -1,7 +1,7 @@
 Jwcad Update Checker
 --------------------
 [![Build Status](https://travis-ci.org/pine613/JwcadUpdateChecker.svg?branch=master)](https://travis-ci.org/pine613/JwcadUpdateChecker)
-[![devDependency Status](https://david-dm.org/pine613/JwcadUpdateChecker/dev-status.svg)](https://david-dm.org/pine613/JwcadUpdateChecker#info=devDependencies)
+[![devDependency Status](https://david-dm.org/pine613/JwcadUpdateChecker/dev-status.svg)](https://david-dm.org/pine613/JwcadUpdateChecker#info=devDependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/pine/JwcadUpdateChecker.svg)](https://greenkeeper.io/)
 
 This is a Google Apps Script that get latest version of Jw_cad.
 
